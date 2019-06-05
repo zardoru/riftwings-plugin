@@ -1,0 +1,3 @@
+name: riftwings-mc-plugin
+main: xyz.riftwings.mc.plugin.RiftwingsPlugin
+version: 1.0
